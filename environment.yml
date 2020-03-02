@@ -1,0 +1,11 @@
+name: kg-house-prices-art
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - jupyterlab
+    
